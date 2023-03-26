@@ -1,0 +1,9 @@
+id,pw,history,borrow_num,deadline
+999,999,"['Python學習手冊 . 第三版 ', 'Effective Python中文版 : 寫出良好Python程式的59個具體做法 ', 'Python programming : an introduction to computer science ']",2,"[(6, datetime.date(2022, 11, 22)), (8, datetime.date(2022, 11, 22))]"
+666,666,"['Python入門 ', 'Monty Python and the Holy Grail [蟒蛇劇團與聖杯] ', '精通Python第二版 : 運用簡單的套件進行現代運算 ', 'Python學習手冊 . 第三版 ']",4,"[(0, datetime.date(2022, 11, 22)), (2, datetime.date(2022, 11, 22)), (17, datetime.date(2022, 11, 29)), (5, datetime.date(2022, 11, 30))]"
+222,222,"['Life of Brian', 'Python學習手冊 . 第三版 ', 'Python machine learning ']",3,"[(46, datetime.date(2022, 11, 29)), (5, datetime.date(2022, 12, 6)), (4, datetime.date(2022, 12, 6))]"
+123,123,['深入淺出Python '],1,"[(10, datetime.date(2022, 11, 29))]"
+qwer,123,"['工業工程與管理 ', '中國工業工程學會年會論文集 ']",1,"[(50, datetime.date(2022, 11, 29)), (51, datetime.date(2022, 11, 29))]"
+qq,qq,[],0,[]
+asd,asd,[],0,[]
+433,433,[],0,[]
